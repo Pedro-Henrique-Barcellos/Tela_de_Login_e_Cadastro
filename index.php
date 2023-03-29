@@ -82,7 +82,7 @@
             <input type="password" class="form-control" name="password_user_confirmation" id=""
                 placeholder="Confirme senha">
         </div>
-
+<br>
         <div class="button-container">
             <button type="submit" class="btn btn-success">Cadastrar</button>
         </div>
